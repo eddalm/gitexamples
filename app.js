@@ -1,11 +1,11 @@
 console.log('hi there')
 
-function add(x, y, z, a) {
+function add(x, y, z, a, b) {
   return x + y + z + a
 }
 
 class SomeEntity {
-  name;
+  otherName;
   id;
   whatever;
   someOther;
