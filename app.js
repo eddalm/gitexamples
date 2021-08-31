@@ -5,7 +5,7 @@ function add(x, y, z) {
 }
 
 class SomeEntity {
-  name;
+  otherName;
   id;
   whatever;
 }
