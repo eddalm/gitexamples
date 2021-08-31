@@ -1,13 +1,14 @@
 console.log('hi there')
 
-function add(x, y, z, b) {
-  return x + y + z
+function add(x, y, z, a, b) {
+  return x + y + z + a
 }
 
 class SomeEntity {
   otherName;
   id;
   whatever;
+  someOther;
 }
 
 const x = new SomeEntity();
