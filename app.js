@@ -1,6 +1,6 @@
 console.log('hi there')
 
-function add(x, y, z) {
+function add(x, y, z, b) {
   return x + y + z
 }
 
