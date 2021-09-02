@@ -4,7 +4,7 @@ function add(x, y, z, a, b) {
   return x + y + z + a
 }
 
-class SomeEntity {
+class SomeEntityaaaaa {
   otherName;
   id;
   whatever;
