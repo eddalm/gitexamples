@@ -4,6 +4,10 @@ function add(x, y, z, a, b) {
   return x + y + z + a
 }
 
+const moreBreakingChanges = () => {
+  return 'headaches'
+}
+
 class SomeEntity {
   otherName;
   id;
