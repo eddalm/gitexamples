@@ -8,6 +8,8 @@ const moreBreakingChanges = () => {
   return 'headaches 4'
 }
 
+let a = 1;
+
 class SomeEntity {
   otherName;
   id;
