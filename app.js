@@ -4,12 +4,17 @@ function add(x, y, z, a, b) {
   return x + y + z + a
 }
 
+const moreBreakingChanges = () => {
+  return 'headaches 2'
+}
+
 class SomeEntityaaaaa {
   otherName;
   id;
   whatever;
   someOther;
 }
+
 
 const x = new SomeEntity();
 x.id = 1;
