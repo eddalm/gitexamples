@@ -5,7 +5,7 @@ function add(x, y, z, a, b) {
 }
 
 const moreBreakingChanges = () => {
-  return 'headaches'
+  return 'headaches 2'
 }
 
 class SomeEntity {
