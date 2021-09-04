@@ -8,7 +8,7 @@ const moreBreakingChanges = () => {
   return 'headaches 4'
 }
 
-let a = 1;
+let a = 3;
 
 class SomeEntityaaaaa {
   otherName;
