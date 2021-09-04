@@ -11,7 +11,7 @@ const moreBreakingChanges = () => {
 
 let a = 3;
 
-class SomeEntity {
+class SomeEntityaaaaa {
   otherName;
   id;
   whatever;
