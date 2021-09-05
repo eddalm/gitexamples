@@ -6,7 +6,10 @@ function add(x, y, z, a, b) {
 }
 
 const moreBreakingChanges = () => {
-  return 'headaches 4'
+  if(1 === 1) {
+    return 1;
+  }
+  return 'headaches 5'
 }
 
 let a = 3;
