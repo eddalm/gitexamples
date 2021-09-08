@@ -27,3 +27,4 @@ class SomeEntityaaaaa {
 const x = new SomeEntity();
 x.id = 1;
 x.name = 3;
+x.whatever = 4;
