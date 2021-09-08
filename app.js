@@ -5,9 +5,12 @@ function add(x, y, z, a, b) {
   return x + y + z + a
 }
 
-const moreBreakingChanges = (b) => {
+const moreBreakingChanges = (b, a) => {
   if (b === 'failed') {
     return 3;
+  }
+  if(a == 'ok') {
+    return 2;
   }
   if(1 === 1) {
     return 1;
