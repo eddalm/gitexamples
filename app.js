@@ -5,7 +5,10 @@ function add(x, y, z, a, b) {
   return x + y + z + a
 }
 
-const moreBreakingChanges = () => {
+const moreBreakingChanges = (a) => {
+  if(a == 'ok') {
+    return 2;
+  }
   if(1 === 1) {
     return 1;
   }
