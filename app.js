@@ -27,6 +27,8 @@ class SomeEntityaaaaa {
   someOther;
 }
 
+// a comment
+
 const x = new SomeEntity();
 x.id = 1;
 x.name = 3;
