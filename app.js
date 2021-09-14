@@ -5,7 +5,10 @@ function add(x, y, z, a, b) {
   return x + y + z + a
 }
 
-const moreBreakingChanges = (a) => {
+const moreBreakingChanges = (b, a) => {
+  if (b === 'failed') {
+    return 3;
+  }
   if(a == 'ok') {
     return 2;
   }
@@ -24,6 +27,9 @@ class SomeEntityaaaaa {
   someOther;
 }
 
+// a comment
+
 const x = new SomeEntity();
 x.id = 1;
 x.name = 3;
+x.whatever = 4;
